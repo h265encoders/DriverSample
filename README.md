@@ -5,13 +5,9 @@
 
 ```
 {
-
 	"interfaceV":{
-
 		"SDI":{"chip":"custom","path":"/usr/lib/libDriverSDI.so","protocols":["SDI"],"mode":"mipi","did": 3,"cid": 0,"dstFramerate":60}
-
 	}
-
 }
 ```
 
